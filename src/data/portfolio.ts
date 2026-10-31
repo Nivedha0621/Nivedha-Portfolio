@@ -23,10 +23,10 @@ export const profile = {
     linkedin: 'https://www.linkedin.com/in/nivedha-r-b8b894352',
     github: 'https://github.com/Nivedha0621',
   },
-  resumePdf: '/assets/Nivedha_Nivi_Resume.pdf',
+  resumePdf: `${import.meta.env.BASE_URL}assets/Nivedha_Nivi_Resume.pdf`,
   portrait: {
-    src: '/assets/portrait-720.webp',
-    srcSet: '/assets/portrait-420.webp 420w, /assets/portrait-720.webp 720w, /assets/portrait-1100.webp 1100w',
+    src: `${import.meta.env.BASE_URL}assets/portrait-720.webp`,
+    srcSet: `${import.meta.env.BASE_URL}assets/portrait-420.webp 420w, ${import.meta.env.BASE_URL}assets/portrait-720.webp 720w, ${import.meta.env.BASE_URL}assets/portrait-1100.webp 1100w`,
     alt: 'Portrait of Nivedha R',
   },
   interests: ['Full-Stack Development', 'Artificial Intelligence', 'Machine Learning'],
