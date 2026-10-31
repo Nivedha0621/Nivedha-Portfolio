@@ -93,3 +93,8 @@ scripts/build-images.mjs   ← portrait/share-image pipeline (sharp)
 - **Opening:** Enter or Esc skips it.
 - **Play Intro:** Space pauses, ← and → change slides, Esc closes.
 - **Project and resume overlays:** Esc closes.
+
+## Portfolio template credits
+
+- [sushmitadasari211-create](https://github.com/sushmitadasari211-create)
+- [![Sushmitadasari](https://avatars.githubusercontent.com/u/147468660?s=64&v=4)](https://github.com/Sushmitadasari) [**Sushmitadasari** — Sushmita Dasari](https://github.com/Sushmitadasari)
